@@ -30,7 +30,7 @@ export default function Home() {
                 Ready to elevate your <br className="hidden md:block" /> beauty experience?
               </h2>
               <p className="text-slate/70 mb-12 text-xl max-w-2xl mx-auto">
-                Join 50,000+ users who have already upgraded their self-care routine with Jayple's expert network.
+                Join 50,000+ users who have already upgraded their self-care routine with Jayple&apos;s expert network.
               </p>
               
               <div className="flex flex-col sm:flex-row gap-6 justify-center items-center">

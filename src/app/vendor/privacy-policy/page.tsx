@@ -23,7 +23,7 @@ export default function VendorPrivacyPolicy() {
       title: "Introduction",
       content: (
         <p>
-          This Vendor Privacy Policy describes how Jayple collects and uses information from our business partners and beauty professionals ("Vendors"). As a Vendor, your data needs are unique, involving both personal and professional information necessary to run a successful business on our platform.
+          This Vendor Privacy Policy describes how Jayple collects and uses information from our business partners and beauty professionals (&quot;Vendors&quot;). As a Vendor, your data needs are unique, involving both personal and professional information necessary to run a successful business on our platform.
         </p>
       )
     },
@@ -84,7 +84,7 @@ export default function VendorPrivacyPolicy() {
       title: "Security & Compliance",
       content: (
         <p>
-          Vendors are expected to handle customer names and contact info obtained through Jayple in compliance with relevant data protection laws. Do not use customer data for marketing purposes outside of Jayple without their explicit "opt-in" consent.
+          Vendors are expected to handle customer names and contact info obtained through Jayple in compliance with relevant data protection laws. Do not use customer data for marketing purposes outside of Jayple without their explicit &quot;opt-in&quot; consent.
         </p>
       )
     }

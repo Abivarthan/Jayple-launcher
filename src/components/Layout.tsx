@@ -3,9 +3,7 @@
 import React, { useState, useEffect } from 'react';
 import Link from 'next/link';
 import { motion, AnimatePresence } from 'framer-motion';
-import { Menu, X, ArrowRight, Instagram, Twitter, MessageCircle } from 'lucide-react';
-import { clsx, type ClassValue } from 'clsx';
-import { twMerge } from 'tailwind-merge';
+import { Menu, X, Instagram, Twitter, MessageCircle } from 'lucide-react';
 
 import { cn } from "@/lib/utils";
 import { Logo } from './Branding';

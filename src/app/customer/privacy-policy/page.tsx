@@ -37,7 +37,7 @@ export default function CustomerPrivacyPolicy() {
           </p>
           <ul>
             <li><strong>Personal Details:</strong> Name, email address, and verified phone number.</li>
-            <li><strong>Profile Information:</strong> Your beauty preferences, hair type, or skin concerns you've shared.</li>
+            <li><strong>Profile Information:</strong> Your beauty preferences, hair type, or skin concerns you&apos;ve shared.</li>
             <li><strong>Payment Data:</strong> Securely tokenized credit card info (we do not store raw card numbers).</li>
             <li><strong>Location:</strong> Precise or coarse location to help you find local beauticians.</li>
           </ul>
@@ -55,7 +55,7 @@ export default function CustomerPrivacyPolicy() {
           <ul>
             <li>To facilitate bookings and secure payment processing.</li>
             <li>To send automated appointment reminders and status updates.</li>
-            <li>To personalize your "Discover" feed with vendors that match your style.</li>
+            <li>To personalize your &quot;Discover&quot; feed with vendors that match your style.</li>
             <li>To detect and prevent fraudulent transactions or bot activity.</li>
           </ul>
         </>

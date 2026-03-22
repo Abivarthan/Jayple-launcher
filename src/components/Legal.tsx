@@ -2,8 +2,8 @@
 
 import React, { useState, useEffect } from 'react';
 import { Navbar, Footer } from './Layout';
-import { motion, AnimatePresence } from 'framer-motion';
-import { FiChevronRight, FiInfo, FiBookOpen, FiShield, FiLock } from 'react-icons/fi';
+import { motion } from 'framer-motion';
+import { FiChevronRight, FiBookOpen } from 'react-icons/fi';
 
 interface LegalSection {
   id: string;

@@ -32,7 +32,7 @@ export default function CustomerTerms() {
       title: "Description of Service",
       content: (
         <p>
-          Jayple provides a marketplace platform that connects independent beauty and wellness professionals ("Vendors") with clients. <strong>Important:</strong> Jayple does not provide beauty services. All services are performed by independent contractors. We facilitate the discovery, booking, and payment processing, but the quality and execution of the service are the sole responsibility of the Vendor.
+          Jayple provides a marketplace platform that connects independent beauty and wellness professionals (&quot;Vendors&quot;) with clients. <strong>Important:</strong> Jayple does not provide beauty services. All services are performed by independent contractors. We facilitate the discovery, booking, and payment processing, but the quality and execution of the service are the sole responsibility of the Vendor.
         </p>
       )
     },
@@ -73,7 +73,7 @@ export default function CustomerTerms() {
       title: "Cancellations & Refunds",
       content: (
         <p>
-          Each Vendor maintains their own cancellation policy (e.g., 24-hour notice). It is your responsibility to review these policies before confirming a booking. Jayple reserves the right to charge a "No-Show" fee if you fail to arrive at your appointment without prior notice, as dictated by the Vendor's policy.
+          Each Vendor maintains their own cancellation policy (e.g., 24-hour notice). It is your responsibility to review these policies before confirming a booking. Jayple reserves the right to charge a &quot;No-Show&quot; fee if you fail to arrive at your appointment without prior notice, as dictated by the Vendor&apos;s policy.
         </p>
       )
     },

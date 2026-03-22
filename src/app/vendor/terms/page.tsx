@@ -49,7 +49,7 @@ export default function VendorTerms() {
       title: "Platform Fees & Commission",
       content: (
         <p>
-          Jayple provides the technology, marketing, and payment infrastructure for your business. In exchange, we charge a fixed commission percentage on every successful booking made through the platform. These fees are automatically deducted from the customer's payment before the remainder is deposited into your account.
+          Jayple provides the technology, marketing, and payment infrastructure for your business. In exchange, we charge a fixed commission percentage on every successful booking made through the platform. These fees are automatically deducted from the customer&apos;s payment before the remainder is deposited into your account.
         </p>
       )
     },
@@ -58,7 +58,7 @@ export default function VendorTerms() {
       title: "Service Standards",
       content: (
         <p>
-          To maintain the quality of the Jayple marketplace, Vendors must maintain a minimum average rating and low cancellation rate. Excessive negative feedback, "no-shows" for customers, or unprofessional conduct may lead to temporary suspension or permanent removal from the platform.
+          To maintain the quality of the Jayple marketplace, Vendors must maintain a minimum average rating and low cancellation rate. Excessive negative feedback, &quot;no-shows&quot; for customers, or unprofessional conduct may lead to temporary suspension or permanent removal from the platform.
         </p>
       )
     },
